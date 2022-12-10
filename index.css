@@ -1,0 +1,8 @@
+.b2 {
+    background-color: black;
+    width: 500px; 
+    height: 100px;
+} 
+.b2:hover {
+    background-color: blue;
+}
